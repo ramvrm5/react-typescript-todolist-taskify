@@ -1,9 +1,6 @@
 import React from "react";
-
 import { Todo } from "../models/models";
-
 import SingleTodo from "./SingleTodo";
-
 import { Droppable } from "react-beautiful-dnd";
 
 interface props {
